@@ -1,0 +1,9 @@
+Collection -> MyQueue -> MyDeque -> myArrayDeque
+MyList -> MyArrayList
+
+        Main
+      StoreSim
+    CheckoutQueue
+     MyCustomer
+MyArrayList myArrayDeque
+Mylist MyQueue MyDeque
